@@ -1,0 +1,15 @@
+/*.ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        font-size: xx-large;
+        overflow: hidden;
+}*/
+.carousel-item{
+        height: 120vh;
+        min-height: 300px;
+}
+.carousel-caption{
+        bottom: center;
+
+}
